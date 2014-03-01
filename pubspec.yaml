@@ -1,0 +1,6 @@
+name: dockable_example
+description: Examples for dockable IDE framework.
+dependencies:
+  browser: any
+  dockable:
+    path: /home/tejainece/learnings/dart/dockable
