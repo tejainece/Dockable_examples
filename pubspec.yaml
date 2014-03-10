@@ -3,4 +3,4 @@ description: Examples for dockable IDE framework.
 dependencies:
   browser: any
   dockable:
-    path: /home/tejainece/learnings/dart/dockable
+    path: /Users/raviteja/dart/dockable.dart
